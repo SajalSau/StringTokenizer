@@ -1,0 +1,4 @@
+model/WrapperText.class
+model/Word.class
+model/Sentence.class
+Service/SentenceTokenizer.class
